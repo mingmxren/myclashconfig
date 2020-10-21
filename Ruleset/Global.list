@@ -1,4 +1,8 @@
 # (DNS Cache Pollution Protection)
+# Battle
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN,blzddist1-a.akamaihd.net
 # > Steam
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steam-chat.com
