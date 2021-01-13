@@ -1,4 +1,9 @@
 # (DNS Cache Pollution Protection)
+
+# brew
+
+DOMAIN-SUFFIX,bintray.com
+DOMAIN-KEYWORD,brew
 # Battle
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,blizzard.com
