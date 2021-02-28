@@ -2,6 +2,7 @@
 
 # brew
 
+DOMAIN-SUFFIX,hltv.org
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-KEYWORD,brew
 # Battle
