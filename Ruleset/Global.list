@@ -2,9 +2,10 @@
 
 # brew
 
-DOMAIN-SUFFIX,hltv.org
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-KEYWORD,brew
+#DOMAIN-SUFFIX,hltv.org
+DOMAIN-KEYWORD,hltv
 # Battle
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,blizzard.com
